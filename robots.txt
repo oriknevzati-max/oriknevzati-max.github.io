@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oriknevzati-max.github.io/orariklasa3/sitemap.xml
